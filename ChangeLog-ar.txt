@@ -1,5 +1,5 @@
 ﻿{"version_code":451199,"content":"
-<p>تحديث 6.10</p>
+<p>تحديث 2.10</p>
 
 <li>التحديث لنسخة الماركت 2.17.427</li>
 <li>إضافة فيسات الواتساب الجديدة</li>
@@ -41,5 +41,5 @@
 <li> Fixed Crash when open Custom Privacy Chats</li>
 <li> Other Fixes</li>
 
-","url":"http://www.gbmods.co/?p=19"
+","url":"http://www.majedkablan.blogspot.com"
 }
