@@ -1,45 +1,57 @@
-﻿{"version_code":451199,"content":"
-<p>تحديث 2.10</p>
+{"version_code":451203,"content":"
+<p>تحديث 2.20</p>
 
-<li>التحديث لنسخة الماركت 2.17.427</li>
-<li>إضافة فيسات الواتساب الجديدة</li>
-<li>(حصريا) يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
-<li>إضافة الخيار رقم 5.6  لرفع فيديو في الحالة مدته 7 دقائق بدلا من 30 ثانية</li>
-<li>الان في المجموعات سوف يظهر (مشرف المجموعة) بجانب اسم المشرف</li>
-<li>إضافة الخيار رقم 2.7.7 لتغيير حجم الزر العائم</li>
-<li>إضافة الخيار رقم 2.7.8 لتغيير مكان الزر العائم(يسار او يمين الشاشة)</li>
-<li>إضافة ملصق الساعة</li>
-<li>إضافة الخيار رقم 2.1.10 لإخفاء ايقونة ايقاف الانترنت من شاشة المحادثات</li>
-<li>تفعيل ميزة اشعار جهات اتصالك عند تغيير رقمك</li>
-<li>إضافة امكانية التحكم باعدادات المجموعة فقط للمشرفين(سوف تتفعل قريبا من قبل السيرفر)</li>
-<li>دعم اللغة الالمانية</li>
-<li>تحسين ميزة ارسال رسالة لرقم غير محفوظ في جهازك</li>
-<li>إصلاح عدم عمل الخيار رقم 6.2 عند استقبال عدة صور(البوم)</li>
-<li>إصلاح الخيار رقم 6.11 في بعض الإصدارات</li>
-<li>إصلاح الانهيار عند فتح المحادثات التي فعلت خصوصيتها</li>
-<li>إصلاح مشكلة عدم (فشل تشغيل هذا الفيديو) في بعض الاجهزة</li>
-<li>إصلاح الوان شريط الحالة عند تحديد رسالة/محادثة</li>
+<li>التحديث لنسخة الماركت 2.18.46</li>
+<li>(حصريا) الان عندما يقوم احد ما بحذف رسالة من جهازك سيأتيك اشعار يخبرك بالرسالة التي يريد حذفها (استردادها)</li>
+<li>تفعيل ميزة وضع وصف للمجموعات</li>
+<li>(حصريا) يمكنك مشاهدة وصف اي مجموعة داخل المحادثة</li>
+<li>إعادة الخيار 6.19 لتشغيل الفيديوهات بالمشغل الخاص بك</li>
+<li>عندما يقوم احد ما بتوجيه رسالة لك في اي مجموعة ستظهر علامة @ اسفل المحادثة</li>
+<li>إعادة زر تحويل اي فيديو لصورة متحركة والعكس</li>
+<li>أضافة خيار لتعطيل اهتزاز WhatsApp باعلى شاشة المحادثات (افتح المحادثات المخفية ثم الاعدادات)</li>
+<li>إضافة خيار لتعطيل ظهور عدد الرسائل المخفية على ايقونة البرنامج (افتح المحادثات المخفية ثم الاعدادات)</li>
+<li>دعم تغيير ثيم شاشة إنشاء مجموعة جديدة - رسالة جماعية جديدة - رسالة مجدولة - المحادثات المخصصة</li>
+<li>إضافة القسم 2.8 لتغيير ثيم شاشة الرسائل المميزة بنجمة</li>
+<li>إضافة الخيار رقم 2.2.30A لتغيير حجم نص متصل الان واخر ظهور في شاشة المحادثات الرئيسية</li>
+<li>إضافة الخيار رقم 2.4.13A لتغيير حجم نص متصل الان واخر ظهور في شاشة الاسماء</li>
+<li>إضافة الخيار رقم 1.2.66 لاخفاء عرض وصف المجموعات في المحادثة</li>
+<li>إضافة الخيار رقم 1.2.67 لتغيير لون اللقب في المجموعة</li>
+<li>إصلاح الخيار 6.11 لتعطيل ظهور الإشعارات المنبثقة في اصدار اوريو 8.0</li>
+<li>إصلاح ظهور اسم المشرف بجانب الاسم في المجموعات</li>
+<li>إصلاح الخيار رقم 1.1.10 لتغيير خلفية ارفاق الوسائط</li>
+<li>إصلاح حذف الرد التلقائي</li>
+<li>إصلاح الرد التلقائي عند اختيار وقت البدء مساءً ووقت الانتهاء </li>
+<li>إصلاح فتح المحادثات المخفية من معلومات المجموعة ثم النقر على صورة المحادثة</li>
+<li>إصلاح فتح المحادثات المخفية من خلال المجموعات المشتركة</li>
 <li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.17.427</li>
-<li> Added New Emojis</li>
-<li> Exclusive DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li> Added Option to Increase Video Limit in Status (Mod 5.6)</li>
-<li> Exclusive Ability to identify Admin Msg in Group (Besides Number) </li>
-<li> Exclusive Option to Change Fab Size (Mod 2.7.7)</li>
-<li> Exclusive Option to Change Fab Location/Position (Mod 2.7.8)</li>
-<li> Enabled Change Number Notification</li>
-<li> Enabled Clock Sticker</li>
-<li> Enabled Group Info Settings (Will Work when Enabled from Server)</li>
-<li> Added Option to Hide DND Mode Icon (mod 2.1.10)</li>
-<li> Improved Dialer (Now you can Edit, Copy, Paste Numbers)</li>
-<li> Added German Language Support</li>
-<li> Fixed Navigation Bar Color when Select any chat/message</li>
-<li> Fixed Mod 6.2 when Send/Receive More than 1 pic. </li>
-<li> Fixed Mod 6.11 for Android Oreo. </li>
-<li> Fixed Play Videos in some devices</li>
-<li> Fixed Crash when open Custom Privacy Chats</li>
-<li> Other Fixes</li>
+<li> New Base Updated to 2.18.46</li>
+<li> (Super - Exclusive) Notification of Revoked Message (Know Which Message was Revoked) </li>
+<li> (Exclusively) Fixed Disable Heads-up for Oreo Users (Mod 6.11)</li>
+<li> (Exclusively) Added Back Play Video in your Favourite Player (Mod 6.19)</li>
+<li> Enabled Group Description</li>
+<li> (Exclusive) Added Group Description in Header Like Status</li>
+<li> Enabled Payments (You need to ask someone who is already payments activated to activate for you) (Country Specific) </li>
+<li> Enabled Mention Button</li>
+<li> Added Option to Hide Group Description from Groups Header (Mod 1.2.66)</li>
+<li> Added Back Option to Convert Video to GIF</li>
+<li> Added Option to Edit Auto Reply Message</li>
+<li> Improved AutoReply</li>
+<li> Added Option to Disable Header Vibration when Receive Message from Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Option to Hide Count on Icon for Hidden Chat (Hidden Chats Page - Click on Settings Icon) </li>
+<li> Added Themed New Group Page</li>
+<li> Added Themed New Broadcast Page</li>
+<li> Added Themed Custom Chats Screen</li>
+<li> Added Themed Scheduler Page</li>
+<li> Added Option to Color Unsaved Participants Name in Group (Mod 1.2.67)</li>
+<li> Added Online/Last Seen Text Size on Main Screen (Mod 2.2.30A)</li>
+<li> Added Online/Last Seen Text Size on Contacts Screen (Mod 2.4.13A)</li>
+<li> Fixed Admin Caption (Mod 1.2.64)</li>
+<li> Fixed delete AutoReply</li>
+<li> Fixed Hidden Chat counter Showing On Widget</li>
+<li> Fixed Hidden Chat Opening from Group Info</li>
+<li> Fixed Hidden Group Opening from Groups in Common</li>
+<li> Many More Fixes</li>
 
-","url":"http://www.majedkablan.blogspot.com"
+","url":"https://majedkablan.blogspot.com/?m=1"
 }
