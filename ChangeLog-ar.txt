@@ -8,5 +8,5 @@
 <li>ماجد القبلان</li>
 
 
-","url":"https:www.majedkablan.co/"
+","url":"http://www.majedkablan.co/"
 }
