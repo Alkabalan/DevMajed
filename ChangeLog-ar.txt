@@ -27,5 +27,5 @@
 <li> Fixed MultiChats</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.dvmajed.com/2019/03/blog-post.html"
+","url":"https://majed-mods.blogspot.com/2019/05/kawhatsapp-v260.html"
 }
