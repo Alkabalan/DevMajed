@@ -1,4 +1,4 @@
-{"version_code":451211,"content":"
+{"version_code":451237,"content":"
 <p>تحديث جديد V2.60</p>
 
 <li> إضافة فيسات الواتساب الجديدة</li>
