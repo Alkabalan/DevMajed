@@ -1,7 +1,7 @@
-{"version_code":451235,"content":"
+{"version_code":451241,"content":"
 
-<li>رسالة دعم وليس تحديث</li>
-<li>يرجى الضغط على تحديث كي نبقى نحدث واتساب القبلان</li>
+<li>تحديث</li>
+<li> واتساب القبلان</li>
 
-","url":"https://www.majed-mods.com/"
+","url":"https://www.majed-mods.com/2019/06/kawhatsapp.html"
 }
